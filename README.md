@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @trionmulti
-- 👀 I’m interested in Genarative AI
+- 👋 Hi, I’m trionmulti
+- 👀 Interested in Genarative AI
 - 🌱 I’m currently learning Prompt Engineering
 - 💞️ I’m looking to collaborate on Artificial Inteligence
 - 📫 How to reach me trionmulti@gmail.com
