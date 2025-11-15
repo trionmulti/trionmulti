@@ -1,16 +1,15 @@
-- ⚡ Fun fact: Everithing that was to happen will eventually happen
-# Hi there, I'm [BRUCE BOGE]! 👋
+# Hi there, I'm BRUCE BOGE! 👋
 <p align="center">
   <img src="[YOUR-BANNER-IMAGE-URL-HERE (Optional)]" alt="Banner" width="800"/>
 </p>
 
-I'm a [ AI & Automation Engineer / Vibe Developer] passionate about building systems that are efficient, intelligent, and solve real-world problems.
+I'm a AI & Automation Engineer / Vibe Developer passionate about building systems that are efficient, intelligent, and solve real-world problems.
 
-* 🔭 I’m currently building **[AI-powered bot for LinkedIn]**.
-* 🌱 I’m currently learning **[Utomation Technology advanced n8n workflows. serverless computing]**.
-* 💬 Ask me about **[ AI agents, IoT,cloud automation]**.
-* 📫 How to reach me: **[trionmulti@gmail.com]**
-* ⚡ Fun fact: **[A fun fact about you]**
+* 🔭 I’m currently building **AI-powered bot for LinkedIn**.
+* 🌱 I’m currently learning **AUtomation Technology advanced n8n workflows. serverless computing**.
+* 💬 Ask me about **AI agents, IoT,cloud automation**.
+* 📫 How to reach me: **trionmulti@gmail.com**
+* ⚡ Fun fact: **Everithing that was to happen will eventually happen**
 
 ---
 
