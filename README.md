@@ -9,7 +9,7 @@ I'm a AI & Automation Engineer / Vibe Developer passionate about building system
 * 🌱 I’m currently learning **AUtomation Technology advanced n8n workflows. serverless computing**.
 * 💬 Ask me about **AI agents, IoT,cloud automation**.
 * 📫 How to reach me: **trionmulti@gmail.com**
-* ⚡ Fun fact: **Everithing that was to happen will eventually happen**
+* ⚡ Fun fact: **Everything that was to happen will eventually happen**
 
 ---
 
